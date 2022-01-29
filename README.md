@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AJNightmares
 - 👀 I’m interested in all things coding and getting this money!
 - 🌱 I’m currently learning python, but moving on too other languages very soon.
-- 💞️ I’m looking to collaborate on anything that can 
+- 💞️ This page is dedicated to capturing my coding career. The beginning may be amateur but this is how We learn.
 - 📫 How to reach me Send me a message or something. I don't have social media for this yet!
 
 <!---
